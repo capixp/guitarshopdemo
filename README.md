@@ -51,6 +51,9 @@ Preview production build:
 npm run preview
 
 📷 Screenshots
+### Home Page
+<img src="./guitarla.png" alt="Guitarla Screenshot" width="600"/>
+
 
 (Add here project screenshots or GIF demos once deployed)
 
