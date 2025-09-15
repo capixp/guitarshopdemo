@@ -34,7 +34,6 @@ function App() {
         console.log('No Existe')
         setCart([...cart,item])
       }
-      saveLocalStorage()
     }
     
     function removeFromCart(id){
